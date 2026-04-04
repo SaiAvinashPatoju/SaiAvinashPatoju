@@ -33,26 +33,48 @@
 
 <div align="center">
 
-![GitHub Metrics](https://metrics.lecoq.io/SaiAvinashPatoju?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&achievements=1&achievements_display=compact&languages=1&languages_ignored=html%2C%20css&languages_indepth=1&lines=1&introduction=1&introduction_title=yes&config_timezone=Asia%2FKolkata)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=SaiAvinashPatoju&theme=tokyonight&show_icons=true&hide_border=true)
 
 </div>
 
 ---
 
-## � Projects
+## 🚀 Projects
 
 <div align="center">
 
+### [ATLAS](https://github.com/SaiAvinashPatoju/atlas)
 [![ATLAS](https://img.shields.io/badge/Project-ATLAS-70A5FD?style=for-the-badge&logo=atlas&logoColor=white)](https://github.com/SaiAvinashPatoju/atlas)
 <br>
-*Agent-Centric Token Reduction & Reliable Raw-Debug Ingestion Engine*
+*Atlas isn't a context reducer, it's a context bundler, MCP, plus drive coding extension—overall an ecosystem.*
 
 | Feature | Description |
 | :--- | :--- |
-| **Token Reduction** | 30-90% reduction via structured selective context |
-| **MCP Server** | Native Model Context Protocol integration for AI Agents |
+| **Context Bundling** | Intelligent code packaging for AI |
+| **MCP Server** | Native integration for AI Agents |
 | **AST Analysis** | Deep codebase mapping using `ts-morph` |
-| **VS Code Ext** | Visual graph explorer for complex repositories |
+| **VS Code Ext** | Visual explorer and agentic workflows |
+
+<br>
+
+### [SyteScan](https://github.com/SaiAvinashPatoju/SyteScan)
+[![SyteScan](https://img.shields.io/badge/Project-SyteScan-339933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAvinashPatoju/SyteScan)
+<br>
+*Construction progress monitoring solution using YOLOv8 computer vision to analyze site photos.*
+
+<br>
+
+### [TradeClaw](https://github.com/SaiAvinashPatoju/tradeclaw)
+[![TradeClaw](https://img.shields.io/badge/Project-TradeClaw-FFD600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SaiAvinashPatoju/tradeclaw)
+<br>
+*A distributed real-time crypto momentum signal delivery system for short-lived opportunities.*
+
+<br>
+
+### [Meta Pilot](https://github.com/SaiAvinashPatoju/meta_pilot)
+[![Meta Pilot](https://img.shields.io/badge/Project-Meta_Pilot-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAvinashPatoju/meta_pilot)
+<br>
+*RAG-based Meta Ads campaign assistant.*
 
 </div>
 
@@ -62,7 +84,11 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/SaiAvinashPatoju/SaiAvinashPatoju/raw/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiAvinashPatoju/SaiAvinashPatoju/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiAvinashPatoju/SaiAvinashPatoju/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaiAvinashPatoju/SaiAvinashPatoju/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
