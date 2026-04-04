@@ -33,7 +33,9 @@
 
 <div align="center">
 
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=SaiAvinashPatoju&theme=tokyonight&show_icons=true&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiAvinashPatoju&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAvinashPatoju&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -43,7 +45,10 @@
 
 <div align="center">
 
-### [ATLAS](https://github.com/SaiAvinashPatoju/atlas)
+<details>
+<summary><b>Click to expand 🗺️ ATLAS (The Ecosystem)</b></summary>
+<br>
+
 [![ATLAS](https://img.shields.io/badge/Project-ATLAS-70A5FD?style=for-the-badge&logo=atlas&logoColor=white)](https://github.com/SaiAvinashPatoju/atlas)
 <br>
 *Atlas isn't a context reducer, it's a context bundler, MCP, plus drive coding extension—overall an ecosystem.*
@@ -55,26 +60,43 @@
 | **AST Analysis** | Deep codebase mapping using `ts-morph` |
 | **VS Code Ext** | Visual explorer and agentic workflows |
 
+</details>
+
 <br>
 
-### [SyteScan](https://github.com/SaiAvinashPatoju/SyteScan)
+<details>
+<summary><b>Click to expand 🏗️ SyteScan (Vision Monitoring)</b></summary>
+<br>
+
 [![SyteScan](https://img.shields.io/badge/Project-SyteScan-339933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAvinashPatoju/SyteScan)
 <br>
 *Construction progress monitoring solution using YOLOv8 computer vision to analyze site photos.*
 
+</details>
+
 <br>
 
-### [TradeClaw](https://github.com/SaiAvinashPatoju/tradeclaw)
+<details>
+<summary><b>Click to expand 📈 TradeClaw (Real-Time Signals)</b></summary>
+<br>
+
 [![TradeClaw](https://img.shields.io/badge/Project-TradeClaw-FFD600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SaiAvinashPatoju/tradeclaw)
 <br>
 *A distributed real-time crypto momentum signal delivery system for short-lived opportunities.*
 
+</details>
+
 <br>
 
-### [Meta Pilot](https://github.com/SaiAvinashPatoju/meta_pilot)
+<details>
+<summary><b>Click to expand 🤖 Meta Pilot (RAG Assistant)</b></summary>
+<br>
+
 [![Meta Pilot](https://img.shields.io/badge/Project-Meta_Pilot-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAvinashPatoju/meta_pilot)
 <br>
 *RAG-based Meta Ads campaign assistant.*
+
+</details>
 
 </div>
 
@@ -84,11 +106,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiAvinashPatoju/SaiAvinashPatoju/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiAvinashPatoju/SaiAvinashPatoju/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaiAvinashPatoju/SaiAvinashPatoju/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub snake](https://github.com/SaiAvinashPatoju/SaiAvinashPatoju/blob/main/github-contribution-grid-snake.svg)
 
 </div>
 
