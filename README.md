@@ -126,6 +126,4 @@ RAG-based Meta Ads campaign assistant designed to optimize ad spend and creative
 
 *One must imagine an optimized agent system happy.*
 
-**🌍 The Atlas never stops.**
-
 </div>
