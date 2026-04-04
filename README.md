@@ -29,29 +29,24 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 🚀 Featured Ecosystem
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiAvinashPatoju&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| Project | Role | Quick Links |
+| :--- | :--- | :--- |
+| **🗺️ ATLAS** | **Ecosystem Hub**: Context Bundler + MCP Server + VS Code Driver | [Repo](https://github.com/SaiAvinashPatoju/atlas) • [Extension](https://github.com/SaiAvinashPatoju/atlas) |
+| **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) • [Demo](https://github.com/SaiAvinashPatoju/SyteScan) |
+| **📈 TradeClaw**| **FinTech**: Distributed real-time crypto momentum signals | [Repo](https://github.com/SaiAvinashPatoju/tradeclaw) • [App](https://github.com/SaiAvinashPatoju/tradeclaw) |
+| **🤖 Meta Pilot**| **Marketing AI**: RAG-based Meta Ads campaign automation | [Repo](https://github.com/SaiAvinashPatoju/meta_pilot) • [Guide](https://github.com/SaiAvinashPatoju/meta_pilot) |
+
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAvinashPatoju&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🚀 Projects
-
-<div align="center">
 
 <details>
-<summary><b>Click to expand 🗺️ ATLAS (The Ecosystem)</b></summary>
+<summary><b>🔍 Deep Dive: ATLAS Ecosystem</b></summary>
 <br>
 
-[![ATLAS](https://img.shields.io/badge/Project-ATLAS-70A5FD?style=for-the-badge&logo=atlas&logoColor=white)](https://github.com/SaiAvinashPatoju/atlas)
-<br>
-*Atlas isn't a context reducer, it's a context bundler, MCP, plus drive coding extension—overall an ecosystem.*
+> *Atlas isn't just a tool; it's a context-aware backbone for AI agents.*
 
 | Feature | Description |
 | :--- | :--- |
@@ -62,39 +57,15 @@
 
 </details>
 
-<br>
-
 <details>
-<summary><b>Click to expand 🏗️ SyteScan (Vision Monitoring)</b></summary>
+<summary><b>🔍 Deep Dive: Specialized Agents (SyteScan / Meta Pilot)</b></summary>
 <br>
 
-[![SyteScan](https://img.shields.io/badge/Project-SyteScan-339933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAvinashPatoju/SyteScan)
-<br>
-*Construction progress monitoring solution using YOLOv8 computer vision to analyze site photos.*
+#### [SyteScan](https://github.com/SaiAvinashPatoju/SyteScan)
+Construction progress monitoring solution using YOLOv8 computer vision to analyze site photos and automatically track completion.
 
-</details>
-
-<br>
-
-<details>
-<summary><b>Click to expand 📈 TradeClaw (Real-Time Signals)</b></summary>
-<br>
-
-[![TradeClaw](https://img.shields.io/badge/Project-TradeClaw-FFD600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SaiAvinashPatoju/tradeclaw)
-<br>
-*A distributed real-time crypto momentum signal delivery system for short-lived opportunities.*
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Click to expand 🤖 Meta Pilot (RAG Assistant)</b></summary>
-<br>
-
-[![Meta Pilot](https://img.shields.io/badge/Project-Meta_Pilot-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAvinashPatoju/meta_pilot)
-<br>
-*RAG-based Meta Ads campaign assistant.*
+#### [Meta Pilot](https://github.com/SaiAvinashPatoju/meta_pilot)
+RAG-based Meta Ads campaign assistant designed to optimize ad spend and creative selection through codebase intelligence.
 
 </details>
 
@@ -102,11 +73,11 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-![GitHub snake](https://github.com/SaiAvinashPatoju/SaiAvinashPatoju/blob/main/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+[![Snake animation](https://github.com/SaiAvinashPatoju/SaiAvinashPatoju/raw/main/github-contribution-grid-snake.svg)](#)
 
 </div>
 
