@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sai Avinash 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+Engineer+by+Day;Agentic+Architect+by+Night;The+Atlas+Never+Stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+Engineer+by+Day;Agentic+Architect+by+Night)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/SaiAvinashPatoju?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/SaiAvinashPatoju)
 [![GitHub User's stars](https://img.shields.io/github/stars/SaiAvinashPatoju?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/SaiAvinashPatoju)
@@ -23,7 +23,7 @@
 ![MCP](https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=json&logoColor=white)
 ![LLM Optimization](https://img.shields.io/badge/LLM_Optimization-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
 
-*I build by day, engineering agentic workflows with Atlas by night* 🏗️🤖
+*I build by day, engineering agentic workflows* 🏗️🤖
 
 </div>
 
