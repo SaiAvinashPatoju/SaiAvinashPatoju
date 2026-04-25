@@ -51,11 +51,10 @@
 | **🧠 Exvisit** | **Agent Tooling**: Structural context compiler for AI agents | [Repo](https://github.com/SaiAvinashPatoju/exvisit) |
 | **🩺 Project-Mark1**| **MedTech AI**: 3D planning for facial and jaw surgery | [Repo](https://github.com/SaiAvinashPatoju/Project-Mark1) |
 | **📈 TradeClaw**| **FinTech**: Distributed real-time crypto momentum signals | [Repo](https://github.com/SaiAvinashPatoju/tradeclaw) |
-| **💼 Ritivarna**| **Vertical SaaS**: Enterprise business operations platform | [Private Repo](https://github.com/SaiAvinashPatoju/ritivarna) |
 | **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) |
-| **🤖 Meta Pilot**| **Marketing AI**: RAG-based Meta Ads campaign automation | [Repo](https://github.com/SaiAvinashPatoju/meta_pilot) |
 | **🎓 Project Edu**| **GenAI**: Classroom lectures to slide presentations | [Repo](https://github.com/SaiAvinashPatoju/project-edu) |
-| **🗺️ Dyn-Mapper**| **AI Algorithms**: CSP-based map coloring solver | [Repo](https://github.com/SaiAvinashPatoju/acad_project_dyn-mapper) |
+| **🤖 Meta Pilot**| **Marketing AI**: RAG-based Meta Ads campaign automation | [Repo](https://github.com/SaiAvinashPatoju/meta_pilot) |
+
 
 <br>
 <details>
