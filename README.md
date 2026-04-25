@@ -37,8 +37,6 @@
 ![MCP](https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=json&logoColor=white)
 ![LLM Optimization](https://img.shields.io/badge/LLM_Optimization-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
 
-*I build by day, engineering agentic workflows* 🏗️🤖
-
 </div>
 
 ---
@@ -49,7 +47,6 @@
 
 | Project | Role | Quick Links |
 | :--- | :--- | :--- |
-| **🗺️ ATLAS** | **Ecosystem Hub**: Context Bundler + MCP Server + VS Code Driver | [Repo](https://github.com/SaiAvinashPatoju/atlas) • [Extension](https://github.com/SaiAvinashPatoju/atlas) |
 | **🧠 Exvisit** | **Agent Tooling**: Structural context compiler for AI agents | [Repo](https://github.com/SaiAvinashPatoju/exvisit) |
 | **📈 TradeClaw**| **FinTech**: Distributed real-time crypto momentum signals | [Repo](https://github.com/SaiAvinashPatoju/tradeclaw) • [App](https://github.com/SaiAvinashPatoju/tradeclaw) |
 | **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) • [Demo](https://github.com/SaiAvinashPatoju/SyteScan) |
@@ -57,22 +54,6 @@
 | **🎓 Project Edu**| **GenAI**: Classroom lectures to slide presentations | [Repo](https://github.com/SaiAvinashPatoju/project-edu) |
 
 <br>
-
-<details>
-<summary><b>🔍 Deep Dive: ATLAS Ecosystem</b></summary>
-<br>
-
-> *Atlas isn't just a tool; it's a context-aware backbone for AI agents.*
-
-| Feature | Description |
-| :--- | :--- |
-| **Context Bundling** | Intelligent code packaging for AI |
-| **MCP Server** | Native integration for AI Agents |
-| **AST Analysis** | Deep codebase mapping using `ts-morph` |
-| **VS Code Ext** | Visual explorer and agentic workflows |
-
-</details>
-
 <details>
 <summary><b>🔍 Deep Dive: Exvisit</b></summary>
 <br>
@@ -117,7 +98,7 @@ RAG-based Meta Ads campaign assistant designed to optimize ad spend and creative
 ## 🎯 Current Focus
 
 ```text
-🔭 Core Project  Exvisit & ATLAS: Agent-Centric Context Compilation
+🔭 Core Project  Exvisit : Agent-Centric Context Compilation
 🏗️ Side project  TradeClaw & Multi-Agent Orchestration
 💬 Ask me about  AST Analysis, Token Optimization, AI Agents
 ⚡ Fun fact      I build tools that help AI code better
