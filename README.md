@@ -50,9 +50,11 @@
 | Project | Role | Quick Links |
 | :--- | :--- | :--- |
 | **🗺️ ATLAS** | **Ecosystem Hub**: Context Bundler + MCP Server + VS Code Driver | [Repo](https://github.com/SaiAvinashPatoju/atlas) • [Extension](https://github.com/SaiAvinashPatoju/atlas) |
-| **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) • [Demo](https://github.com/SaiAvinashPatoju/SyteScan) |
+| **🧠 Exvisit** | **Agent Tooling**: Structural context compiler for AI agents | [Repo](https://github.com/SaiAvinashPatoju/exvisit) |
 | **📈 TradeClaw**| **FinTech**: Distributed real-time crypto momentum signals | [Repo](https://github.com/SaiAvinashPatoju/tradeclaw) • [App](https://github.com/SaiAvinashPatoju/tradeclaw) |
+| **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) • [Demo](https://github.com/SaiAvinashPatoju/SyteScan) |
 | **🤖 Meta Pilot**| **Marketing AI**: RAG-based Meta Ads campaign automation | [Repo](https://github.com/SaiAvinashPatoju/meta_pilot) • [Guide](https://github.com/SaiAvinashPatoju/meta_pilot) |
+| **🎓 Project Edu**| **GenAI**: Classroom lectures to slide presentations | [Repo](https://github.com/SaiAvinashPatoju/project-edu) |
 
 <br>
 
@@ -72,8 +74,21 @@
 </details>
 
 <details>
-<summary><b>🔍 Deep Dive: Specialized Agents (SyteScan / Meta Pilot)</b></summary>
+<summary><b>🔍 Deep Dive: Exvisit</b></summary>
 <br>
+
+> *Building structural context for the next generation of AI coding agents.*
+
+**[Exvisit](https://github.com/SaiAvinashPatoju/exvisit)** is a structural context compiler that provides deep semantic understanding of codebases to AI coding agents like Claude Code.
+
+</details>
+
+<details>
+<summary><b>🔍 Deep Dive: Specialized Agents (TradeClaw / SyteScan / Meta Pilot)</b></summary>
+<br>
+
+#### [TradeClaw](https://github.com/SaiAvinashPatoju/tradeclaw)
+A distributed real-time crypto momentum signal delivery system. TradeClaw detects short-lived upward momentum opportunities in crypto markets and delivers clean, actionable trade signals.
 
 #### [SyteScan](https://github.com/SaiAvinashPatoju/SyteScan)
 Construction progress monitoring solution using YOLOv8 computer vision to analyze site photos and automatically track completion.
@@ -102,8 +117,8 @@ RAG-based Meta Ads campaign assistant designed to optimize ad spend and creative
 ## 🎯 Current Focus
 
 ```text
-🔭 Core Project  ATLAS: Agent-Centric Token Reduction
-🏗️ Side project  Multi-Agent Orchestration & MCP Servers
+🔭 Core Project  Exvisit & ATLAS: Agent-Centric Context Compilation
+🏗️ Side project  TradeClaw & Multi-Agent Orchestration
 💬 Ask me about  AST Analysis, Token Optimization, AI Agents
 ⚡ Fun fact      I build tools that help AI code better
 ```
