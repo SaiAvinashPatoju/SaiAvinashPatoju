@@ -30,12 +30,13 @@
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AST/Morph](https://img.shields.io/badge/AST_Analysis-FFD600?style=for-the-badge&logo=codeforces&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=json&logoColor=white)
-![LLM Optimization](https://img.shields.io/badge/LLM_Optimization-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
+![React & Next.js](https://img.shields.io/badge/React_Next.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![AI Agents & MCP](https://img.shields.io/badge/AI_Agents_&_MCP-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -48,10 +49,13 @@
 | Project | Role | Quick Links |
 | :--- | :--- | :--- |
 | **🧠 Exvisit** | **Agent Tooling**: Structural context compiler for AI agents | [Repo](https://github.com/SaiAvinashPatoju/exvisit) |
-| **📈 TradeClaw**| **FinTech**: Distributed real-time crypto momentum signals | [Repo](https://github.com/SaiAvinashPatoju/tradeclaw) • [App](https://github.com/SaiAvinashPatoju/tradeclaw) |
-| **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) • [Demo](https://github.com/SaiAvinashPatoju/SyteScan) |
-| **🤖 Meta Pilot**| **Marketing AI**: RAG-based Meta Ads campaign automation | [Repo](https://github.com/SaiAvinashPatoju/meta_pilot) • [Guide](https://github.com/SaiAvinashPatoju/meta_pilot) |
+| **🩺 Project-Mark1**| **MedTech AI**: 3D planning for facial and jaw surgery | [Repo](https://github.com/SaiAvinashPatoju/Project-Mark1) |
+| **📈 TradeClaw**| **FinTech**: Distributed real-time crypto momentum signals | [Repo](https://github.com/SaiAvinashPatoju/tradeclaw) |
+| **💼 Ritivarna**| **Vertical SaaS**: Enterprise business operations platform | [Private Repo](https://github.com/SaiAvinashPatoju/ritivarna) |
+| **🏗️ SyteScan** | **AI Vision**: Progress monitoring via YOLOv8 for construction | [Repo](https://github.com/SaiAvinashPatoju/SyteScan) |
+| **🤖 Meta Pilot**| **Marketing AI**: RAG-based Meta Ads campaign automation | [Repo](https://github.com/SaiAvinashPatoju/meta_pilot) |
 | **🎓 Project Edu**| **GenAI**: Classroom lectures to slide presentations | [Repo](https://github.com/SaiAvinashPatoju/project-edu) |
+| **🗺️ Dyn-Mapper**| **AI Algorithms**: CSP-based map coloring solver | [Repo](https://github.com/SaiAvinashPatoju/acad_project_dyn-mapper) |
 
 <br>
 <details>
@@ -65,17 +69,17 @@
 </details>
 
 <details>
-<summary><b>🔍 Deep Dive: Specialized Agents (TradeClaw / SyteScan / Meta Pilot)</b></summary>
+<summary><b>🔍 Deep Dive: Specialized Projects (Mark1 / TradeClaw / SyteScan)</b></summary>
 <br>
+
+#### [Project-Mark1](https://github.com/SaiAvinashPatoju/Project-Mark1)
+AI-powered 3D planning for facial and jaw surgery (CMF Virtual Surgical Planning). Integrates medical imaging for advanced surgical preparation.
 
 #### [TradeClaw](https://github.com/SaiAvinashPatoju/tradeclaw)
 A distributed real-time crypto momentum signal delivery system. TradeClaw detects short-lived upward momentum opportunities in crypto markets and delivers clean, actionable trade signals.
 
 #### [SyteScan](https://github.com/SaiAvinashPatoju/SyteScan)
 Construction progress monitoring solution using YOLOv8 computer vision to analyze site photos and automatically track completion.
-
-#### [Meta Pilot](https://github.com/SaiAvinashPatoju/meta_pilot)
-RAG-based Meta Ads campaign assistant designed to optimize ad spend and creative selection through codebase intelligence.
 
 </details>
 
@@ -99,8 +103,8 @@ RAG-based Meta Ads campaign assistant designed to optimize ad spend and creative
 
 ```text
 🔭 Core Project  Exvisit : Agent-Centric Context Compilation
-🏗️ Side project  TradeClaw & Multi-Agent Orchestration
-💬 Ask me about  AST Analysis, Token Optimization, AI Agents
+🏗️ Side project  Project-Mark1 & TradeClaw
+💬 Ask me about  AI Agents, Computer Vision, MedTech AI
 ⚡ Fun fact      I build tools that help AI code better
 ```
 
